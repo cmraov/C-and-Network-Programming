@@ -6,7 +6,6 @@ main()
   char str1[] = "abcd";
   char str2[] = "efghijk";
   char str3[100];
-  memset(str3,0,100);
   int i = 0,j=0;
   while(str1[i]!='\0' || str2[i] !='\0')
    {
